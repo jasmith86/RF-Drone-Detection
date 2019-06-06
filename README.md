@@ -1,5 +1,6 @@
 # Passive RF Drone Detection for the Georgia Tech Police Department
-Team members:
+Awarded 2nd place at the [Spring 2019 Computer Science Capstone Expo](http://techstyle.lmc.gatech.edu/spring-2019-cs-junior-design-capstone-expo/).
+## Team members:
 - Anya Bhatnagar
 - Kenneth Hyman
 - Frederic Faulkner
